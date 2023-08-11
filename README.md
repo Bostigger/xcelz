@@ -1,5 +1,7 @@
 #DEMO VID
-https://github.com/Bostigger/xcelz/assets/52701136/a9258337-7b93-4e21-8bd6-b7b3f8d43d18
+
+https://github.com/Bostigger/xcelz/assets/52701136/d78afb88-e640-44fb-9249-59612ca92fd1
+
 # API
 
 This document outlines the API routes for a web application. The routes are categorized into authentication, news and articles, and user preferences.
