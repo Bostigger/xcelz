@@ -75,24 +75,4 @@ Prefix: /user
         Handler: NewsController@savePreference
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
