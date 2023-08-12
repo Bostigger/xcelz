@@ -1,7 +1,6 @@
 # DEMO VID
 
-
-https://github.com/Bostigger/xcelz/assets/52701136/d78afb88-e640-44fb-9249-59612ca92fd1
+https://github.com/Bostigger/xcelz/assets/52701136/3f3c760e-6434-4ee7-86ec-ee263a071b2e
 
 # API
 
