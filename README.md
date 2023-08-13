@@ -1,3 +1,7 @@
+# DEMO VID
+
+https://github.com/Bostigger/xcelz/assets/52701136/3f3c760e-6434-4ee7-86ec-ee263a071b2e
+
 # API
 
 This document outlines the API routes for a web application. The routes are categorized into authentication, news and articles, and user preferences.
@@ -75,24 +79,4 @@ Prefix: /user
         Handler: NewsController@savePreference
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
