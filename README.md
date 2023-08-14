@@ -6,7 +6,7 @@ https://github.com/Bostigger/xcelz/assets/52701136/3f3c760e-6434-4ee7-86ec-ee263
 
 This document outlines the API routes for a web application. The routes are categorized into authentication, news and articles, and user preferences.
 Routes
-Auth Routes
+API Auth Routes
 
 Handles user authentication functionalities.
 
