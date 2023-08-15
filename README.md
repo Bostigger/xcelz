@@ -8,6 +8,7 @@ This document outlines the API routes for a web application. The routes are cate
 Routes
 API Auth Routes
 
+-------------------
 Handles user authentication functionalities.
 
 Prefix: /auth
